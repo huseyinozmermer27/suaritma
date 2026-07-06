@@ -1,4 +1,4 @@
-# Su Arıtma Klonu (PHP)
+# Su Arıtma (PHP)
 
 ## Proje Durumu
 Şu ana kadar aşağıdaki ana bileşenler tamamlanmıştır:
