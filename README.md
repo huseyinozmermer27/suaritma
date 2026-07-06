@@ -1,6 +1,4 @@
-# Sumosu Su Arıtma Klonu (PHP)
-
-Bu proje, `sumosuaritma.com` web sitesinin minimalist e-ticaret tasarımını ve temel yapısını PHP ile klonlamayı amaçlamaktadır.
+# Su Arıtma Klonu (PHP)
 
 ## Proje Durumu
 Şu ana kadar aşağıdaki ana bileşenler tamamlanmıştır:
